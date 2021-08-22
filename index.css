@@ -1,0 +1,109 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto
+}
+#bold
+{
+    font-weight: bold;
+    color:black;
+}
+.float-r
+{
+    float: right;
+}
+.float-l
+{
+    float: left;
+}
+.button
+{
+    color: white;
+    background-color:#1E776E;
+    padding: 6px 32px;
+    border:2px solid #1E776E;
+    font-family: Arial Narrow;
+}
+.button:hover
+{
+    color:rgb(4, 94, 64); 
+    background-color:white;
+    padding: 6px 32px;
+    border:2px solid rgb(4, 94, 64);
+    transition: 0.5s ease-out;
+}
+.button-1
+{
+    color: white !important;
+    background-color:#1E776E !important;
+    padding: 4px 20px;
+    border:1px solid rgb(199, 198, 198);
+    border-left:1px solid transparent;
+    border-bottom-right-radius: 4px !important;
+    border-top-right-radius: 4px !important;
+    border-bottom-left-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border:2px solid #1E776E;
+    border-left:1px solid white;
+  
+}
+.button-1:hover
+{
+    color: rgb(4, 94, 64) !important;
+    background-color:white !important;
+    transition: 0.5s ease-out;
+    border-left:2px solid  rgb(4, 94, 64)!important;
+  
+}
+.text-center
+{
+  text-align: center;
+}
+.row-sh
+{
+    box-shadow: 0px 8px 15px -1px #aaa;
+    padding:24px 54px; 
+
+}
+.main-form{
+    padding: 0px 100px;
+}
+.col-lg-2{
+    padding: 6px 0px;
+
+}
+.box-shadow{
+    
+    box-shadow:0px 8px 15px -1px #aaa;
+    border-radius:8px;
+
+}
+.box-2 {
+    border-bottom: 1px solid    #808080;
+
+
+}
+
+.box-3{
+    
+border-top-right-radius :8px;
+
+}
+.box-4{
+     border-bottom-right-radius :10px;
+
+}
+@media screen and (max-width: 1000px) {
+    .form-control{
+        margin-top:30px;
+    }
+  
+    .main-form{
+        padding: 0px 60px;
+    }
+
+  .container-1{
+height:121.5vh !important;
+  }
+}

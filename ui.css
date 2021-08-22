@@ -1,0 +1,121 @@
+.font-family-arial
+{
+    font-family: Century Gothic;
+}
+.font-family-arial-1
+{
+    font-family:arial;
+}
+.font-family-Bahnschrift
+{
+    font-family:Tw Cen MT Condensed ;
+}
+.font-family-arial-2
+{
+    font-family:Arial Narrow;
+}
+/*---------------------------------------------------------bg-colors-----------------------------------------------*/
+ .b-white{
+    background-color: #ffffff;
+}
+.b-w-blue{
+   background-color: #2fc8b8;
+}
+.b-black-blue{
+    background-color: #1E776E;
+}
+.b-white-grey{
+    background-color: #0000001f;
+}
+.b-black{
+background-color: #000000;
+}
+.b-dark-grey{
+    background-color: #707070;
+}
+.b-alice-blue{
+    background-color: #eef6f6;
+}
+.b-m-grey{
+    background-color: #00000029;
+}
+.b-white-blue{
+    background-color: #e6f5f3;
+}
+.b_dark_dark_grey{
+    background-color: #888888;
+}
+
+/*---------------------------------------------------------font-colors-----------------------------------------------*/
+.c-white{
+  color: #ffffff;
+}
+.c-w-blue{
+  color: #2fc8b8;
+}
+.c-black-blue{
+   color: #1E776E;
+}
+.c-white-grey{
+   color: #0000001f;
+}
+.c-black{
+color: #000000;
+}
+.c-dark-grey{
+  color: #707070;
+}
+.c-alice-blue{
+color: #eef6f6;
+}
+.c-m-grey{
+  color: #00000029;
+}
+.c-white-blue{
+   color: #e6f5f3;
+}
+.c-dark-dark-grey{
+   color: #888888;
+}
+
+/*--------------------------------------------------------font size--------------------------------------------------*/
+
+.big-title{
+font-size: 420%;
+}
+.medium-title{
+    font-size: 300%;
+}
+.small-title{
+    font-size: 200%;
+}
+.small-small-title{
+    font-size: 100%;
+}
+.big-content{
+    font-size: 200%;
+}
+.medium-content{
+font-size:110%;
+}
+.small-content{
+font-size: 90%;
+}
+.small-small-content{
+font-size: 50%;
+}
+/*-------------------------------------------------------margin/padding-------------------------------------------*/
+.margin-0{
+    margin:0;
+}
+.padding-0{
+    padding: 0;
+}
+
+.ml-0{
+    margin-left:0px;   
+}
+.mr-0{
+    margin-right:0px; 
+  
+}
